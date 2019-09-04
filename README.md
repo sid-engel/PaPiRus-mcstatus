@@ -7,12 +7,12 @@
 
 ## Requirements
 
-** HARDWARE **
+**HARDWARE**
 
 - [A RaspberryPi Zero W](https://www.adafruit.com/product/3400)
 - [PaPiRus Zero ePaper/eInk pHAT](https://www.adafruit.com/product/3335)
 
-** SOFTWARE**
+**SOFTWARE**
 
 - [PaPiRus](https://github.com/PiSupply/PaPiRus)
 - [McStatus](https://github.com/Dinnerbone/mcstatus)
