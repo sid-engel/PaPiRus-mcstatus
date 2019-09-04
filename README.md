@@ -13,6 +13,7 @@
 > PaPiRus Zero ePaper/eInk pHAT - https://www.adafruit.com/product/3335
 
 > ** SOFTWARE**
+
 > PaPiRus - https://github.com/PiSupply/PaPiRus
 > McStatus - https://github.com/Dinnerbone/mcstatus
 
