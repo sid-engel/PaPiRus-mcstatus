@@ -4,6 +4,7 @@
 
 > A simple Python3 application to display the status of any Minecraft server on the PaPiRus display. This is written specifically for the Medium(2inch) PaPiRus Zero display.
 
+![PaPiRus-mcstatus demo image](https://pbs.twimg.com/media/EDpmPJaXYAcS0L_?format=jpg&name=large)
 
 ## Requirements
 
